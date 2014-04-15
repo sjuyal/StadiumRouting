@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="64" height="32" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="set1" tilewidth="16" tileheight="16">
+  <image source="set.jpg" width="225" height="225"/>
+ </tileset>
+ <tileset firstgid="197" name="set2" tilewidth="16" tileheight="16">
+  <image source="japhouse.png" width="256" height="1632"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="64" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzt1dEJgDAMBcA4eBdwIdeTLqAVbBXeBd5fPnIkkFZVbSD79k7Pk76e2TU6Bz8/f5a/z7kif/Yfk8P/rf/uNlf4rzK70vfPz8/Pz5/p9/+z98/Pz8/Pn+n3/7P3z8/Pz8+f6T8BgrsIYA==
+  </data>
+ </layer>
+</map>
